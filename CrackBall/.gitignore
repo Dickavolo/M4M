@@ -1,0 +1,48 @@
+# Unity
+/Library/
+/Temp/
+/Obj/
+/Build/
+/Builds/
+/UserSettings/
+
+# Visual Studio & MonoDevelop
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.userprefs
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
+xcuserdata/
+
+# Mac
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.ReSharper*
+*.DotSettings
+
+# Package Manager
+/Packages/manifest.json
+/Packages/packages-lock.json
+
+# Binaries
+*.dll
+*.so
+*.a
+*.lib
+*.dylib
+*.pdb
+*.mdb
+*.exe
+
+# TextMesh Pro
+/Assets/TextMesh Pro/
